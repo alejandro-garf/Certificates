@@ -19,4 +19,9 @@
 
  - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/Assets%2C%20Threats%2C%20and%20Vulnerabilities.pdf)
 
+<h2>👨‍💻 Sound the Alarm: Detection and Response</h2>
+
+ - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/SoundtheAlarm.pdf)
+
+
 
