@@ -15,4 +15,8 @@
 
  - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/ToolsOfTheTrade-Linux%26SQL.pdf)
 
+<h2>👨‍💻 Assets, Threats, and Vulnerabilities</h2>
+
+ - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/Assets%2C%20Threats%2C%20and%20Vulnerabilities.pdf)
+
 
