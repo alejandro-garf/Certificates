@@ -11,3 +11,8 @@
 
  - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/Networks%24NetworkSecurity.pdf)
 
+<h2>👨‍💻 Tools of the Trade: Linux & SQL</h2>
+
+ - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/ToolsOfTheTrade-Linux%26SQL.pdf)
+
+
