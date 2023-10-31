@@ -29,7 +29,12 @@
 
 <h2>👨‍💻 Put It to Work: Prepare for Cybersecurity Jobs</h2>
 
- - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/Automating%20Cybersecurity%20Tasks%20with%20python.pdf)
+ - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/Prepare%20for%20Cybersecurity%20Jobs.pdf)
+
+<h2>👨‍💻 Certificate of Completion</h2>
+
+ - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/GoogleCybersecurityCertificateofCompletion.pdf)
+
 
 
 
