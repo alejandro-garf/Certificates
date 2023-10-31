@@ -27,6 +27,10 @@
 
  - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/Automating%20Cybersecurity%20Tasks%20with%20python.pdf)
 
+<h2>👨‍💻 Put It to Work: Prepare for Cybersecurity Jobs</h2>
+
+ - [Certificate](https://github.com/alejandro-garf/Certificates/blob/main/Automating%20Cybersecurity%20Tasks%20with%20python.pdf)
+
 
 
 
